@@ -1,0 +1,30 @@
+{
+  "name": "tozito-main",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.20",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "firebase": "^9.23.0",
+    "jotai": "^2.3.1",
+    "next": "13.4.5-canary.3",
+    "nuka-carousel": "^6.0.3",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "encoding": "^0.1.13"
+  }
+}
